@@ -11,7 +11,7 @@ Voice assistants, with Whisper, GPT-3.5 Turbo, Google Text to Speech API and Voi
 ### Installation
 There are 2 options available for running the project, `.ipynb` or `.py` file
 
-> Refer to this if you want to run the project via `.ipynb` file [Coming Soon]()
+> Refer to this if you want to run the project via `.ipynb` file [See here](https://gist.github.com/Zarnir/2527f1fe6bfb6d2e8ccfa2f197819f77)
 <br>
 
 For `.py` file running
